@@ -46,7 +46,6 @@ namespace ISAD_QLTuyenDung.Database
                 if (!string.IsNullOrWhiteSpace(doanhNghiep.nvPhuTrach))
                     sql += $" AND NVPHUTRACH LIKE '%{doanhNghiep.nvPhuTrach}%'";
             }
-            sql += " ORDER BY MADN";
             try
             {
                 conn.Open();

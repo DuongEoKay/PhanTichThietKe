@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\Nhom3\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\Nhom3\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj": {
+    "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Nhom3\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj",
         "projectName": "ISAD_QLTuyenDung",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\Nhom3\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\Nhom3\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung\\obj\\",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj",
+        "packagesPath": "C:\\Users\\nguyenvantuankiet\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nguyenvantuankiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +49,10 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "dependencies": {
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1001, )"
+            },
             "Oracle.ManagedDataAccess.Core": {
               "target": "Package",
               "version": "[3.21.130, )"
