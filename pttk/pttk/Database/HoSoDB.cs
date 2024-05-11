@@ -29,14 +29,10 @@ namespace pttk.Database
             finally { conn.Close(); }
         }
 
-        public static DataTable LapDSHoSoUT(OracleConnection conn, decimal uuTienLow, decimal uuTienHigh, HoSoBS? hoso = null)
+        public static DataTable LapDSHoSoUT(OracleConnection conn, string uuTien, string maphieu, string madn)
         {
-            string orderSql = "ORDER BY HS.MAUV, HS.MADN, HS.MAPHIEU";
-            string sql = $"SELECT HS.MAUV, UV.HOTEN, HS.MADN, HS.MAPHIEU, DT.VITRIUT, HS.DOUUTIEN, HS.GHICHU, HS.TINHTRANG, HS.NVDUYET " +
-                $"FROM {OracleConfig.schema}.HOSOUNGTUYEN HS JOIN {OracleConfig.schema}.UNGVIEN UV ON HS.MAUV=UV.MAUV " +
-                $"JOIN {OracleConfig.schema}.PTTDANGTUYEN DT ON HS.MADN=DT.MADN AND HS.MAPHIEU=DT.MAPHIEU";
 
-         
+            string sql = $"SELECT * from HoSoUngTUyen where DOUUTIEN = {uuTien} and Maphieu = {maphieu} and madn = {madn}";
 
             OracleDataAdapter adp = new(sql, conn);
             try
@@ -58,11 +54,11 @@ namespace pttk.Database
             try
             {
                 conn.Open();
-                string hoSoSql = $"INSERT INTO {OracleConfig.schema}.HOSOUNGTUYEN " +
+                /*string hoSoSql = $"INSERT INTO {OracleConfig.schema}.HOSOUNGTUYEN " +
                     $"VALUES('{hoso.maUV}', '{hoso.maDN}', '{hoso.maPhieu}', '{hoso.doUuTien}', " +
                     $"'{hoso.ghiChu}', {hoso.tinhTrang}, '{hoso.nvDuyet}')";
                 OracleCommand cmdHoSo = new(hoSoSql, conn);
-                cmdHoSo.ExecuteNonQuery();
+                cmdHoSo.ExecuteNonQuery();*/
             }
             catch (Exception)
             {
@@ -77,9 +73,7 @@ namespace pttk.Database
             {
                 conn.Open();
                 string hoSoSql = $"UPDATE {OracleConfig.schema}.HOSOUNGTUYEN " +
-                    $"SET DOUUTIEN={hoso.doUuTien}, GHICHU='{hoso.ghiChu}', TINHTRANG={hoso.tinhTrang} " +
-                    $"WHERE MAUV='{hoso.maUV}' AND MADN='{hoso.maDN}' AND MAPHIEU='{hoso.maPhieu}'";
-
+                    $"SET TINHTRANGDATUNGTUYEN={hoso.tinhTrangDatUngTuyen}, TINHTRANGDUYET='{hoso.tinhTrangDuyet}' WHERE IDUNGVIEN='{hoso.maUV}' AND IDPHIEUTTDT='{hoso.maPhieu}'";
                 OracleCommand cmd = new(hoSoSql, conn);
                 cmd.ExecuteNonQuery();
             }

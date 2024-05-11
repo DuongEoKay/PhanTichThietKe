@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\pttk.csproj": {}
+    "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\pttk.csproj": {}
   },
   "projects": {
-    "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\pttk.csproj": {
+    "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\pttk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\pttk.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\pttk.csproj",
         "projectName": "pttk",
-        "projectPath": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\pttk.csproj",
+        "projectPath": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\pttk.csproj",
         "packagesPath": "C:\\Users\\nguyenvantuankiet\\.nuget\\packages\\",
-        "outputPath": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

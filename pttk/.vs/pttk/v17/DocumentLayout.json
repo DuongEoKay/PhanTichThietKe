@@ -1,38 +1,39 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\Desktop\\PhanTichThietKe\\pttk\\",
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\ui\\nhanvienui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\ui\\nhanvienui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\ui\\nhanvienui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\ui\\lanhdaoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\ui\\lanhdaoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\mac\\home\\downloads\\phantichthietke-main\\phantichthietke-main\\pttk\\pttk\\business\\hosobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\oracleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\oracleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\mac\\home\\downloads\\phantichthietke-main\\phantichthietke-main\\pttk\\pttk\\ui\\themhs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|z:\\desktop\\phantichthietke\\pttk\\pttk\\ui\\nhanvienui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\ui\\nhanvienui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\ui\\themuv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\database\\doanhnghiepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\database\\doanhnghiepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\mac\\home\\downloads\\phantichthietke-main\\phantichthietke-main\\pttk\\pttk\\ui\\nhanvienui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\business\\doanhnghiepbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\business\\doanhnghiepbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\mac\\home\\downloads\\phantichthietke-main\\phantichthietke-main\\pttk\\pttk\\database\\hosodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\mac\\home\\downloads\\phantichthietke-main\\phantichthietke-main\\pttk\\pttk\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|solutionrelative:pttk\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\mac\\home\\downloads\\phantichthietke-main\\phantichthietke-main\\pttk\\pttk\\ui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\database\\ungviendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\business\\ungvienbs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C942A9E-06E2-40C4-B2BE-ECE061D9ED44}|pttk\\pttk.csproj|\\\\mac\\home\\downloads\\phantichthietke-main\\phantichthietke-main\\pttk\\pttk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,103 +43,139 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoanhNghiepDB.cs",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\Database\\DoanhNghiepDB.cs",
-              "RelativeDocumentMoniker": "pttk\\Database\\DoanhNghiepDB.cs",
-              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\Database\\DoanhNghiepDB.cs",
-              "RelativeToolTip": "pttk\\Database\\DoanhNghiepDB.cs",
-              "ViewState": "AQIAAB4AAAAwAAAAAEAlwCkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T04:11:10.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LanhDaoUI.cs [Design]",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\LanhDaoUI.cs",
-              "RelativeDocumentMoniker": "pttk\\UI\\LanhDaoUI.cs",
-              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\LanhDaoUI.cs [Design]",
-              "RelativeToolTip": "pttk\\UI\\LanhDaoUI.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:44:13.856Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OracleConfig.cs",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\OracleConfig.cs",
-              "RelativeDocumentMoniker": "pttk\\OracleConfig.cs",
-              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\OracleConfig.cs",
-              "RelativeToolTip": "pttk\\OracleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Title": "ThemHS.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\ThemHS.cs",
+              "RelativeDocumentMoniker": "pttk\\UI\\ThemHS.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\ThemHS.cs [Design]",
+              "RelativeToolTip": "pttk\\UI\\ThemHS.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:39:08.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NhanVienUI.cs",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\NhanVienUI.cs",
-              "RelativeDocumentMoniker": "pttk\\UI\\NhanVienUI.cs",
-              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\NhanVienUI.cs",
-              "RelativeToolTip": "pttk\\UI\\NhanVienUI.cs",
-              "ViewState": "AQIAAC4AAADAZmZmZqYgwD4AAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:29:30.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T15:32:21.748Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "NhanVienUI.cs [Design]",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\NhanVienUI.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\NhanVienUI.cs",
               "RelativeDocumentMoniker": "pttk\\UI\\NhanVienUI.cs",
-              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\NhanVienUI.cs [Design]",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\NhanVienUI.cs [Design]",
               "RelativeToolTip": "pttk\\UI\\NhanVienUI.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T04:35:56.895Z",
+              "WhenOpened": "2024-05-11T08:01:54.331Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DoanhNghiepBS.cs",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\Business\\DoanhNghiepBS.cs",
-              "RelativeDocumentMoniker": "pttk\\Business\\DoanhNghiepBS.cs",
-              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\Business\\DoanhNghiepBS.cs",
-              "RelativeToolTip": "pttk\\Business\\DoanhNghiepBS.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "DocumentIndex": 1,
+              "Title": "HoSoBS.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Business\\HoSoBS.cs",
+              "RelativeDocumentMoniker": "pttk\\Business\\HoSoBS.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Business\\HoSoBS.cs",
+              "RelativeToolTip": "pttk\\Business\\HoSoBS.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:38:23.32Z"
+              "WhenOpened": "2024-05-11T14:30:26.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\Login.cs",
-              "RelativeDocumentMoniker": "pttk\\UI\\Login.cs",
-              "ToolTip": "C:\\Users\\nguyenvantuankiet\\source\\repos\\pttk\\pttk\\UI\\Login.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "NhanVienUI.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\NhanVienUI.cs",
+              "RelativeDocumentMoniker": "pttk\\UI\\NhanVienUI.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\NhanVienUI.cs",
+              "RelativeToolTip": "pttk\\UI\\NhanVienUI.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAEwKMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:48:18.356Z"
+              "WhenOpened": "2024-05-11T07:28:44.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Login.cs",
-              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\Login.cs",
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\Login.cs",
               "RelativeDocumentMoniker": "pttk\\UI\\Login.cs",
-              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\UI\\Login.cs",
-              "RelativeToolTip": "pttk\\UI\\Login.cs",
-              "ViewState": "AQIAAA8AAAAgAAAAAEAgwB4AAAARAAAA",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\Login.cs [Design]",
+              "RelativeToolTip": "pttk\\UI\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T03:48:21.881Z"
+              "WhenOpened": "2024-05-11T14:39:05.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\Login.cs",
+              "RelativeDocumentMoniker": "pttk\\UI\\Login.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\Login.cs",
+              "RelativeToolTip": "pttk\\UI\\Login.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:39:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemUV.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\ThemUV.cs",
+              "RelativeDocumentMoniker": "pttk\\UI\\ThemUV.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\UI\\ThemUV.cs [Design]",
+              "RelativeToolTip": "pttk\\UI\\ThemUV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:27:34.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoSoDB.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Database\\HoSoDB.cs",
+              "RelativeDocumentMoniker": "pttk\\Database\\HoSoDB.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Database\\HoSoDB.cs",
+              "RelativeToolTip": "pttk\\Database\\HoSoDB.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAASwEUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:14:46.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UngVienDB.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Database\\UngVienDB.cs",
+              "RelativeDocumentMoniker": "pttk\\Database\\UngVienDB.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Database\\UngVienDB.cs",
+              "RelativeToolTip": "pttk\\Database\\UngVienDB.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:29:57.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Program.cs",
+              "RelativeDocumentMoniker": "pttk\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Program.cs",
+              "RelativeToolTip": "pttk\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:08:16.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UngVienBS.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Business\\UngVienBS.cs",
+              "RelativeDocumentMoniker": "pttk\\Business\\UngVienBS.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\Business\\UngVienBS.cs",
+              "RelativeToolTip": "pttk\\Business\\UngVienBS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:30:34.836Z"
             }
           ]
         }

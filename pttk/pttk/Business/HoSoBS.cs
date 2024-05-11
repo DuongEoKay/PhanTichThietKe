@@ -5,25 +5,24 @@ using System.Data;
 
 namespace pttk.Business
 {
-    internal class HoSoBS(string maUV, string maDN, string maPhieu, int doUuTien, string ghiChu,
-        int tinhTrang, string nvDuyet)
+    internal class HoSoBS(string maUV, string maPhieu, string idGiayTo, string tinhTrangDuyet,
+        string tinhTrangDatUngTuyen, string nvDuyet, string DoUuTien)
     {
-        readonly public string maUV = maUV, maDN = maDN, maPhieu = maPhieu, ghiChu = ghiChu, nvDuyet = nvDuyet;
-        readonly public int doUuTien = doUuTien, tinhTrang = tinhTrang;
+        readonly public string maUV = maUV, idGiayTo = idGiayTo, maPhieu = maPhieu, tinhTrangDuyet = tinhTrangDuyet, nvDuyet = nvDuyet, tinhTrangDatUngTuyen = tinhTrangDatUngTuyen;
 
         public static DataTable LoadHoSo(OracleConnection conn, HoSoBS? hoso = null)
         {
             return HoSoDB.LayHoSo(conn, hoso);
         }
 
-        public static DataTable LapDSHoSoUT(OracleConnection conn, decimal uuTienLow, decimal uuTienHigh, HoSoBS? hoso = null)
+        public static DataTable LapDSHoSoUT(OracleConnection conn, string uuTien, string maphieu, string madn)
         {
-            return HoSoDB.LapDSHoSoUT(conn, uuTienLow, uuTienHigh, hoso);
+            return HoSoDB.LapDSHoSoUT(conn, uuTien, maphieu, madn);
         }
 
         public static bool ThemHoSo(ref HoSoBS hoso, OracleConnection conn)
         {
-            if (hoso.tinhTrang == 0) return false;
+            
             try
             {
                 HoSoDB.ThemHoSo(hoso, conn);

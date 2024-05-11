@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jW91a+iKJ91VTyJK3S2jugQZhPE8a8SYjSUDymE1eeKJgjIIYeBXIe7JlFtjQWZyO9ZRNn/HsR3FG+s5jPLr1Q==",
+  "dgSpecHash": "LReJVtyumeG1SLTTLcmZNoABCslCBjl/9vVT1QiGuuuv7Gn6pkIAmR3S0cpF8fjH07tLEKUcdDHr2rWY3oZTuw==",
   "success": true,
-  "projectFilePath": "Z:\\Desktop\\PhanTichThietKe\\pttk\\pttk\\pttk.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Downloads\\PhanTichThietKe-main\\PhanTichThietKe-main\\pttk\\pttk\\pttk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nguyenvantuankiet\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
     "C:\\Users\\nguyenvantuankiet\\.nuget\\packages\\oracle.manageddataaccess\\23.4.0\\oracle.manageddataaccess.23.4.0.nupkg.sha512",

@@ -19,10 +19,12 @@ namespace pttk.UI
         readonly OracleConnection conn;
         public NhanVienUI(string text, string conn)
         {
+
             InitializeComponent();
             this.conn = new(conn);
             btnRefresh.PerformClick();
             label2.Text = "NV1";
+            DanhSachUngVien_dgv.DataSource = UngVienBS.LoadUngVien(this.conn);
         }
 
 
@@ -92,7 +94,7 @@ namespace pttk.UI
             DanhSachHS_dgv.DataSource = HoSoBS.LoadHoSo(conn);
         }
 
-      
+
 
         private void DanhSachDN_dgv2_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -149,6 +151,36 @@ namespace pttk.UI
         {
             DataGridViewRow cRow = DanhSachCL_dgv.Rows[e.RowIndex];
             IDChienLuoc_tb.Text = cRow.Cells["IDCHIENLUOC"].Value.ToString();
+        }
+
+        private void dangkyButton_Click(object sender, EventArgs e)
+        {
+            ThemUV uv = new ThemUV(label2.Text, conn);
+            uv.Show();
+        }
+
+        private void ThemHoSoButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DanhSachHS_dgv_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            DataGridViewRow cRow = DanhSachHS_dgv.Rows[e.RowIndex];
+            IDUngVien_tb.Text = cRow.Cells["IDUNGVIEN"].Value.ToString();
+            IDPhieuTTDT4.Text = cRow.Cells["IDPHIEUTTDT"].Value.ToString();
+        }
+
+        private void LapDSHSButton_Click(object sender, EventArgs e)
+        {
+            LapDSHoSo form = new LapDSHoSo(conn);
+            form.Show();
+        }
+
+        private void DuyetHSButton_Click(object sender, EventArgs e)
+        {
+            HoSoBS hs = new HoSoBS(IDUngVien_tb.Text, IDPhieuTTDT4.Text, null,TinhTrang_tb.Text, TinhTrangDatUngTuyen_tb.Text, label2.Text,null);
+            HoSoBS.DuyetHoSo(ref hs, conn);
         }
     }
 }
