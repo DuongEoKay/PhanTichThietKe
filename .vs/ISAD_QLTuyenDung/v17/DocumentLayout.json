@@ -1,111 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\",
+  "WorkspaceRootPath": "Z:\\Desktop\\PhanTichThietKe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\lanhdao\\dexuatcluudai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|z:\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\themhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|solutionrelative:isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\themhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\lanhdao\\themchienluoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\database\\chienluocuudaidb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\lanhdao\\lanhdaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\database\\clapdungdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\isad_qltuyendung\\giaodien\\nhanvien\\apdungchienluocuudai\\apdungcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\database\\hosoungtuyendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlydoanhnghiep\\quanlydn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlydoanhnghiep\\quanlydn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlydoanhnghiep\\timdoanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\isad_qltuyendung\\giaodien\\nhanvien\\quanlydoanhnghiep\\timdoanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlyungvien\\themungvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\laphosotuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\themhoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlyungvien\\dangkyungvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\thongtindangtuyen\\themphieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\thongtindangtuyen\\lappttdangtuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlydoanhnghiep\\themdoanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\isad_qltuyendung\\giaodien\\lanhdao\\thongkedn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\lanhdao\\thongkedn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\lapdshoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\lapdshoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\duyethoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\database\\pttdangtuyendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\chitiethoadon\\themchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\database\\pdkquangcaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\thongtindangtuyen\\lappttdangtuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlydoanhnghiep\\themdoanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\nghiepvu\\doanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\hotro\\oracleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\isad_qltuyendung\\giaodien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\hotro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\apdungchienluocuudai\\apdungcluudai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\lapdshoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\e76b1aeb7cd74d87646e6acecfd55c6a88c63d78b6163b94d0d553c2d77f5814\\src\\System.Windows.Forms\\src\\System\\Windows\\Forms\\Application.ComponentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -114,10 +16,52 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\0df52d1b10bd467156d7779655eed95718a4d019b31d1c2fa76e3f51331db71e\\PInvoke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\apdungchienluocuudai\\apdungcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\lanhdao\\thongkedn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64261889-A1CD-4E79-AFA9-2EF837A8BC49}|ISAD_QLTuyenDung\\ISAD_QLTuyenDung.csproj|\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\isad_qltuyendung\\giaodien\\lanhdao\\danhgiatiemnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\hosotuyendung\\lapdshoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\chitiethoadon\\themchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\database\\pttdangtuyendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\database\\pdkquangcaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\thongtindangtuyen\\lappttdangtuyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\quanlydoanhnghiep\\themdoanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\nghiepvu\\doanhnghiep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\nhanvienform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\hotro\\oracleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\isad_qltuyendung\\giaodien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\hotro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\apdungchienluocuudai\\apdungcluudai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\mac\\home\\desktop\\phantichthietke\\isad_qltuyendung\\giaodien\\nhanvien\\apdungchienluocuudai\\apdungcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\isad_qltuyendung\\giaodien\\lanhdao\\danhgiatiemnang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,290 +71,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ThemChienLuoc.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThemChienLuoc.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThemChienLuoc.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThemChienLuoc.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThemChienLuoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:52:02.9Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeXuatCLUuDai.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DeXuatCLUuDai.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DeXuatCLUuDai.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DeXuatCLUuDai.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DeXuatCLUuDai.cs [Design]",
+              "Title": "ThemHoSo.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs",
+              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs [Design]",
+              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:51:52.749Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChienLuocUuDaiDB.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\ChienLuocUuDaiDB.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\Database\\ChienLuocUuDaiDB.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\ChienLuocUuDaiDB.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\Database\\ChienLuocUuDaiDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:51:20.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LanhDaoForm.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\LanhDaoForm.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\LanhDaoForm.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\LanhDaoForm.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\LanhDaoForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:20:31.773Z",
+              "WhenOpened": "2024-05-11T15:31:58.732Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CLApDungDB.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\CLApDungDB.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\Database\\CLApDungDB.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\CLApDungDB.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\Database\\CLApDungDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ThongKeDN.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T14:31:22.245Z"
+              "WhenOpened": "2024-05-09T15:15:52.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LapDSHoSo.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:12:37.428Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ApDungCL.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs [Design]",
+              "Title": "LapDSHoSo.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
+              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:41:20.87Z"
+              "WhenOpened": "2024-05-09T14:30:59.831Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HoSoUngTuyenDB.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\HoSoUngTuyenDB.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\Database\\HoSoUngTuyenDB.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\HoSoUngTuyenDB.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\Database\\HoSoUngTuyenDB.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAgwEoAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T03:57:26.415Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuanLyDN.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs*",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs*",
-              "ViewState": "AQIAAEkAAAAAAAAAAIAwwFIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:14:49.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "QuanLyDN.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs [Design]*",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\QuanLyDN.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:12:15.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TimDoanhNghiep.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:20:10.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ThemUngVien.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\ThemUngVien.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\ThemUngVien.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\ThemUngVien.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\ThemUngVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:57:56.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LapHoSoTuyenDung.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapHoSoTuyenDung.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapHoSoTuyenDung.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapHoSoTuyenDung.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapHoSoTuyenDung.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:31:01.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ThemHoSo.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\ThemHoSo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:31:03.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DangKyUngVien.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\DangKyUngVien.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\DangKyUngVien.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\DangKyUngVien.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyUngVien\\DangKyUngVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:57:54.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TimDoanhNghiep.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\TimDoanhNghiep.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T08:07:51.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ThemPhieu.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\ThemPhieu.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\ThemPhieu.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\ThemPhieu.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\ThemPhieu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T05:21:19.865Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LapPTTDangTuyen.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T05:14:07.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ThemDoanhNghiep.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T04:58:12.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ThongKeDN.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T03:50:19.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ThongKeDN.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\ThongKeDN.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:15:52.774Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "LapDSHoSo.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T15:12:37.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LapDSHoSo.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\LapDSHoSo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:30:59.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DuyetHoSo.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\DuyetHoSo.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\DuyetHoSo.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\DuyetHoSo.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\HoSoTuyenDung\\DuyetHoSo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T14:30:58.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
               "Title": "ThemChiTietHoaDon.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ChiTietHoaDon\\ThemChiTietHoaDon.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ChiTietHoaDon\\ThemChiTietHoaDon.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ChiTietHoaDon\\ThemChiTietHoaDon.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ChiTietHoaDon\\ThemChiTietHoaDon.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ChiTietHoaDon\\ThemChiTietHoaDon.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T14:32:03.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 7,
               "Title": "PTTDangTuyenDB.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PTTDangTuyenDB.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PTTDangTuyenDB.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\Database\\PTTDangTuyenDB.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PTTDangTuyenDB.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PTTDangTuyenDB.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\Database\\PTTDangTuyenDB.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -418,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 8,
               "Title": "PDKQuangCaoDB.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PDKQuangCaoDB.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PDKQuangCaoDB.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\Database\\PDKQuangCaoDB.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PDKQuangCaoDB.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\Database\\PDKQuangCaoDB.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\Database\\PDKQuangCaoDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -430,23 +153,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 9,
               "Title": "LapPTTDangTuyen.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ThongTinDangTuyen\\LapPTTDangTuyen.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T13:17:21.442Z"
+              "WhenOpened": "2024-05-09T13:17:21.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 10,
               "Title": "ThemDoanhNghiep.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\QuanLyDoanhNghiep\\ThemDoanhNghiep.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -454,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 11,
               "Title": "DoanhNghiep.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\NghiepVu\\DoanhNghiep.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\NghiepVu\\DoanhNghiep.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\NghiepVu\\DoanhNghiep.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\NghiepVu\\DoanhNghiep.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\NghiepVu\\DoanhNghiep.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\NghiepVu\\DoanhNghiep.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAgwBgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -466,11 +188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 12,
               "Title": "NhanVienForm.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\NhanVienForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\NhanVienForm.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\NhanVienForm.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\NhanVienForm.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\NhanVienForm.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\NhanVienForm.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -478,11 +200,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 13,
               "Title": "OracleConfig.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\OracleConfig.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\OracleConfig.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\HoTro\\OracleConfig.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\OracleConfig.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\OracleConfig.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\HoTro\\OracleConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -490,33 +212,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 14,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\Login.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T03:50:10.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 15,
               "Title": "Login.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\Login.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T07:14:06.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\Program.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\HoTro\\Program.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\HoTro\\Program.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\HoTro\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -524,18 +245,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 17,
               "Title": "ApDungCLUuDai.cs",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCLUuDai.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCLUuDai.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCLUuDai.cs",
-              "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCLUuDai.cs",
+              "ToolTip": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCLUuDai.cs",
               "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCLUuDai.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T07:42:22.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 2,
               "Title": "Application.ComponentManager.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\e76b1aeb7cd74d87646e6acecfd55c6a88c63d78b6163b94d0d553c2d77f5814\\src\\System.Windows.Forms\\src\\System\\Windows\\Forms\\Application.ComponentManager.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\e76b1aeb7cd74d87646e6acecfd55c6a88c63d78b6163b94d0d553c2d77f5814\\src\\System.Windows.Forms\\src\\System\\Windows\\Forms\\Application.ComponentManager.cs",
@@ -544,19 +265,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 18,
               "Title": "ApDungCL.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs",
-              "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\NhanVien\\ApDungChienLuocUuDai\\ApDungCL.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:41:49.222Z"
+              "WhenOpened": "2024-05-07T07:41:49.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 3,
               "Title": "PInvoke.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\0df52d1b10bd467156d7779655eed95718a4d019b31d1c2fa76e3f51331db71e\\PInvoke.cs",
               "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\0df52d1b10bd467156d7779655eed95718a4d019b31d1c2fa76e3f51331db71e\\PInvoke.cs [Read Only]",
@@ -565,12 +285,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 19,
               "Title": "DanhGiaTiemNang.cs [Design]",
-              "DocumentMoniker": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DanhGiaTiemNang.cs",
+              "DocumentMoniker": "Z:\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DanhGiaTiemNang.cs",
               "RelativeDocumentMoniker": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DanhGiaTiemNang.cs",
               "ToolTip": "\\\\Mac\\Home\\Desktop\\PhanTichThietKe\\ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DanhGiaTiemNang.cs [Design]",
-              "RelativeToolTip": "ISAD_QLTuyenDung\\GiaoDien\\LanhDao\\DanhGiaTiemNang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T03:48:43.654Z"
             }
