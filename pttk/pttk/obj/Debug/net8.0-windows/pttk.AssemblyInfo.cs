@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pttk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e0dbf56ab5dd2ef037c57f5580a9d35816475f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("pttk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pttk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
